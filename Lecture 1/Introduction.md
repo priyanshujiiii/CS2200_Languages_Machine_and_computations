@@ -44,4 +44,18 @@
   <h2> Unrestricted Memory: Turing Machines ----------- Unrestricted Grammers </h2>
 </div>
 <div>
-  <h1> 
+  <h1>Course Outline</h1>
+  <h2>Finite Automata and Regular Languages</h2>
+  <p># Finite state Automata , Regular Languages Notion of non-determinism, Subset Construction</p>
+  <p># Pattern matching and Regular Expressions,Closure properties of regular languages</p>
+  <p># Limitations of Regular Languages , Puming Lemma, Myhill- Nerode relations, Qotient Construction, Minimization Algorithm</p>
+  <h2>Pushdown Automata and context-free languages:</h2>
+  <p> Pushdown Automata(PDA),PDA vs CFLs. Deterministic CFLs </p>
+  <p>Grammars and Chomsky Hierarchy, CFLS,nRegular Grammars , Chomsky Normal Form, Pumping Lemma for CFLs, Inherent Ambiguity of Context - Free Languages</p>
+  <p>Cock-Younger-Kasami Algorithm, Applications to parsing</p>
+  
+  
+  
+  
+  
+  
