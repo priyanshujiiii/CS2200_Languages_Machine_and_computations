@@ -29,3 +29,6 @@
   <p># Finite Memory with stack: Pushdown Automata </p>
   <p># Unrestricted Memory: Turing Machines</p>
 </div>
+<div>
+<h1> Languages </h1>
+<p>Sets of string, formalized by grammars</p>
