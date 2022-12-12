@@ -1,4 +1,10 @@
-<h1> Practical Applications </h1>
+<div><h1> Practical Applications </h1>
 <h3>Syntax of every major programming language is modelled by context-free grammars</h3>
 <p>Theory behind design ans construction of major parts of compiler such as Lexial Analyzers and Paarsers.</p>
 <p>Lexical Analysis is the first phase of the compiler also known as a scanner. It converts the High level input program into a sequence of Tokens.</p>
+</div>
+<div>
+<h1>Foundations of Computation</h1>
+<h2>When developing solutions to real problems, we often confront the limitation of what software can do.</h2>
+  <p># Undecidable things- there are programs, but no fast programs.</p>
+  <p># Intractable things - there are programs, but no fast programs.</p>
