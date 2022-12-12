@@ -50,10 +50,14 @@
   <p># Pattern matching and Regular Expressions,Closure properties of regular languages</p>
   <p># Limitations of Regular Languages , Puming Lemma, Myhill- Nerode relations, Qotient Construction, Minimization Algorithm</p>
   <h2>Pushdown Automata and context-free languages:</h2>
-  <p> Pushdown Automata(PDA),PDA vs CFLs. Deterministic CFLs </p>
-  <p>Grammars and Chomsky Hierarchy, CFLS,nRegular Grammars , Chomsky Normal Form, Pumping Lemma for CFLs, Inherent Ambiguity of Context - Free Languages</p>
-  <p>Cock-Younger-Kasami Algorithm, Applications to parsing</p>
-  
+  <p># Pushdown Automata(PDA),PDA vs CFLs. Deterministic CFLs </p>
+  <p># Grammars and Chomsky Hierarchy, CFLS,nRegular Grammars , Chomsky Normal Form, Pumping Lemma for CFLs, Inherent Ambiguity of Context - Free Languages</p>
+  <p># Cock-Younger-Kasami Algorithm, Applications to parsing</p>
+  <h1>Turing Machines and Computability.</h1>
+  <p># Intoduction to Theory of NP-completeness </p>
+  <p># Multi-tape Turing machines, Recursive and Recursively enumerable languages, Undecidability of Halting Problem, Reductions,</p>
+  <p># Intoduction to Theory of NP- completeness.</p>
+</div>
   
   
   
