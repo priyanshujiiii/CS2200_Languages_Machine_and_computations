@@ -6,7 +6,7 @@
 <div>
 <h1>Foundations of Computation</h1>
 <h2>When developing solutions to real problems, we often confront the limitation of what software can do.</h2>
-  <p># Undecidable things- there are programs, but no fast programs.</p>
+  <p># Undecidable things- there are no programs, whatever can do it.</p>
   <p># Intractable things - there are programs, but no fast programs.</p>
   <h2>Turing Machines</h2> <p>, to understand the fundamental limits of computation.</h2>
   <p>a mathematical model of a hypothetical computing machine which can use a predefined set of rules to determine a result from a set of input variables.</p>
