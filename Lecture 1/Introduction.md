@@ -17,3 +17,12 @@
   <p>In this course, we will use formal definitions for abstrac models, and reason about properties of the model purely using the definitions.<p>
   <p>we will also learn how to formally prove these properties</p>
 </div>
+<div>
+  <h1>what about the course</h1>
+  <h1> Languages , Machines and Computation</h1>
+  <h2> Languages and Machines are two parallel and independent ways to understand the foundadtions Computation.</h2>
+  <h2>Machines</h2>
+  <p>Abstract Models which capture some fundamemtal aspect of computation.</p>
+  <p>Automatons are abstract models of machines that perform computations on an input by moving through a series of states or configurations. At each state of the computation, a transition function determines the next configuration on the basis of a finite portion of the present configuration.</p>
+  
+  
