@@ -9,6 +9,7 @@
   <p># Undecidable things- there are programs, but no fast programs.</p>
   <p># Intractable things - there are programs, but no fast programs.</p>
   <h2>Turing Machines</h2> <p>, to understand the fundamental limits of computation.</h2>
+  <p>a mathematical model of a hypothetical computing machine which can use a predefined set of rules to determine a result from a set of input variables.</p>
 </div>
 <div>
   <h1>Abstraction and a new way of thinking</h1>
