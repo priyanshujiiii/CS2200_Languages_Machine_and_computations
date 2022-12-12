@@ -43,3 +43,5 @@
   <h2> Finite Memory with stack: ------------------- Context - free Grammers </h2>
   <h2> Unrestricted Memory: Turing Machines ----------- Unrestricted Grammers </h2>
 </div>
+<div>
+  <h1> 
