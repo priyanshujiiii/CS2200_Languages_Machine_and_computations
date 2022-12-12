@@ -37,10 +37,7 @@
   <p>        # Context free Grammars </p>
   <p>        # Unrestricted Grammars </p>
 <h3>Problem of deciding whether a entence belongs to a language has a strong correspondance with computation</h3>
-                  ------------------------------------------------------------------------------------------------------------------
-                  |   <h2> Finite memory ----------------- Right linear Grammars </h2>
-                  |
-                  |-----------------------------------------------------------------------------------------------------------------
-                  |<
-                  |
-                  ------------------------------------------------------------------------------------------------------------------
+  <h2> Finite memory ----------------- Right linear Grammars </h2>
+  <h2> Finite Memory with stack: ------------------- Context - free Grammers </h2>
+  <h2> Unrestricted Memory: Turing Machines ----------- Unrestricted Grammers </h2>
+</div>
