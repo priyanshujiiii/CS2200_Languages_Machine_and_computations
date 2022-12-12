@@ -28,4 +28,4 @@
   <p># Finite Memory : Finite Automata</p>
   <p># Finite Memory with stack: Pushdown Automata </p>
   <p># Unrestricted Memory: Turing Machines</p>
-  
+</div>
