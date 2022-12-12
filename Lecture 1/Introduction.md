@@ -14,4 +14,5 @@
   <h1>Abstraction and a new way of thinking</h1>
   <p>Abstraction: Building a mathematical model that captures the essence of the system in the simplest possible way</p>
   <p>In this course, we will use formal definitions for abstrac models, and reason about properties of the model purely using the definitions.<p>
+  <p>we will also learn how to formally prove these properties</p>
 </div>
