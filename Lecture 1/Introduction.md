@@ -10,3 +10,6 @@
   <p># Intractable things - there are programs, but no fast programs.</p>
   <h2>Turing Machines</h2> <p>, to understand the fundamental limits of computation.</h2>
 </div>
+<div>
+  <h1>Abstraction and a new way of thinking</h1>
+  <p>Abstraction: Building a mathematical model that captures the essence of the system in the simplest possible way</p>
