@@ -32,3 +32,10 @@
 <div>
 <h1> Languages </h1>
 <p>Sets of string, formalized by grammars</p>
+<p>Chomsky hirerarchy of language classes with increasing complexity</p>
+  <p>        # Right linear Grammers </p>
+  <p>        # Context free Grammars </p>
+  <p>        # Unrestricted Grammars </p>
+<h3>Problem of deciding whether a entence belongs to a language has a strong correspondance with computation</h3>
+
+  
