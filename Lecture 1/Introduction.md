@@ -22,7 +22,10 @@
   <h1> Languages , Machines and Computation</h1>
   <h2> Languages and Machines are two parallel and independent ways to understand the foundadtions Computation.</h2>
   <h2>Machines</h2>
-  <p>Abstract Models which capture some fundamemtal aspect of computation.</p>
+  <h3>Abstract Models which capture some fundamemtal aspect of computation.</h3>
   <p>Automatons are abstract models of machines that perform computations on an input by moving through a series of states or configurations. At each state of the computation, a transition function determines the next configuration on the basis of a finite portion of the present configuration.</p>
-  
+  <h3> We will study the following three classes of Machines:</h3>
+  <p># Finite Memory : Finite Automata</p>
+  <p># Finite Memory with stack: Pushdown Automata </p>
+  <p># Unrestricted Memory: Turing Machines</p>
   
